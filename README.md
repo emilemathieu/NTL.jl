@@ -1,5 +1,5 @@
 # NTL.jl
-Code to accompany UAI 2018 paper ['Sampling and Inference for Beta Neutral-to-the-Left Models of Sparse Networks'](http://auai.org/uai2018/proceedings/papers/185.pdf)  (['supplement'](http://auai.org/uai2018/proceedings/supplements/Supplementary-Paper185.pdf)).
+Code to accompany UAI 2018 paper ['Sampling and Inference for Beta Neutral-to-the-Left Models of Sparse Networks'](http://auai.org/uai2018/proceedings/papers/185.pdf)  ([supplement](http://auai.org/uai2018/proceedings/supplements/Supplementary-Paper185.pdf)).
 
 ## Data
 
